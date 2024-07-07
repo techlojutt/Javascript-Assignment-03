@@ -1,3 +1,4 @@
+//Whether a number is even or odd using functions
 function evenOrOdd(a)
 {
     if(a%2===0)

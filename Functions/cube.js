@@ -1,5 +1,6 @@
-function cube(a){
-
+//cube of any number using function
+function cube(a)
+{
     var i = 0 ;
     var prod = 1 ;
     while(i<3) 
@@ -9,7 +10,6 @@ function cube(a){
         i++;
     }
     console.log(cub)
-
 }
 
 cube(prompt("Enter the value"));

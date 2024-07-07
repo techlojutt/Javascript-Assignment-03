@@ -1,4 +1,6 @@
-function circle(r){
+//diameter, circumference and area of circle using function
+function circle(r)
+{
   var diameterOfCircle = 2 * r ;
   var circumferenceOfCircle = 2 * 3.14 * r ;
   var AreaOfCircle = 3.14 * r * r ;
